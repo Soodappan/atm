@@ -1,5 +1,5 @@
 # atm
-this project consist of thre modules.
+This project consist of thre modules.
 1.withdrawal
 2.deposite
 3.view balance
